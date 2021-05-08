@@ -12,6 +12,3 @@ function App() {
 }
 
 export default App;
-
-git config --global user.email "ashishkumararya1996@gmail.com"
-  git config --global user.name "Asish Jena"
